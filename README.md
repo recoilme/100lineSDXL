@@ -7,7 +7,7 @@ The quickest and simplest method to taste the essence of Stable Diffusion XL. Co
 # Installation:
 Invoke the command:
 ```
-https://github.com/recoilme/100lineSDXL
+git clone https://github.com/recoilme/100lineSDXL
 cd 100lineSDXL
 pip3 install torch torchvision torchaudio --upgrade
 pip3 install -r requirements.txt
