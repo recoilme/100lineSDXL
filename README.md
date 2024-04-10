@@ -19,5 +19,5 @@ Bestow patience upon it (the inaugural ritual takes its sweet, sweet time, yes, 
 
 # Interface:
 Open link [http://127.0.0.1:7860/](http://127.0.0.1:7860/) behold the mystical canvas as this:
-[1.jpg](1.jpg)
+![1.jpg](1.jpg)
 
