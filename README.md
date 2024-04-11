@@ -11,6 +11,7 @@ git clone https://github.com/recoilme/100lineSDXL
 cd 100lineSDXL
 pip3 install torch torchvision torchaudio --upgrade
 pip3 install -r requirements.txt
+pip3 install diffusers --upgrade
 ```
 Ponder upon it (for a considerable duration).
 # Commencement:
@@ -21,6 +22,6 @@ python3 app.py
 Bestow patience upon it (the inaugural ritual takes its sweet, sweet time, yes, once more).
 
 # Interface:
-Open link [http://127.0.0.1:7860/](http://127.0.0.1:7860/) behold the mystical canvas as this:
+Open link [http://0.0.0.0:7861/](http://0.0.0.0:7861/) behold the mystical canvas as this:
 ![1.jpg](1.jpg)
 
